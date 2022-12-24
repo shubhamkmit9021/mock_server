@@ -1,0 +1,1080 @@
+{
+    "results": [
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In the video-game franchise Kingdom Hearts, the main protagonist, carries a weapon with what shape?",
+            "correct_answer": "Key",
+            "incorrect_answers": [
+                "Sword",
+                "Pen",
+                "Cellphone"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What word represents the letter &#039;T&#039; in the NATO phonetic alphabet?",
+            "correct_answer": "Tango",
+            "incorrect_answers": [
+                "Target",
+                "Taxi",
+                "Turkey"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What alcoholic drink is made from molasses?",
+            "correct_answer": "Rum",
+            "incorrect_answers": [
+                "Gin",
+                "Vodka",
+                "Whisky"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the nickname of the US state of California?",
+            "correct_answer": "Golden State",
+            "incorrect_answers": [
+                "Sunshine State",
+                "Bay State",
+                "Treasure State"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "According to Sherlock Holmes, &quot;If you eliminate the impossible, whatever remains, however improbable, must be the...&quot;",
+            "correct_answer": "Truth",
+            "incorrect_answers": [
+                "Answer",
+                "Cause",
+                "Source"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which candy is NOT made by Mars?",
+            "correct_answer": "Almond Joy",
+            "incorrect_answers": [
+                "M&amp;M&#039;s",
+                "Twix",
+                "Snickers"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of the following is the IATA code for Manchester Airport?",
+            "correct_answer": "MAN",
+            "incorrect_answers": [
+                "EGLL",
+                "LHR",
+                "EGCC"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "The likeness of which president is featured on the rare $2 bill of USA currency?",
+            "correct_answer": "Thomas Jefferson",
+            "incorrect_answers": [
+                "Martin Van Buren",
+                "Ulysses Grant",
+                "John Quincy Adams"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of the following is not the host of a program on NPR?",
+            "correct_answer": "Ben Shapiro",
+            "incorrect_answers": [
+                "Terry Gross",
+                "Ira Glass",
+                "Peter Sagal"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the profession of Elon Musk&#039;s mom, Maye Musk?",
+            "correct_answer": "Model",
+            "incorrect_answers": [
+                "Professor",
+                "Biologist",
+                "Musician"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "This field is sometimes known as &ldquo;The Dismal Science.&rdquo;",
+            "correct_answer": "Economics",
+            "incorrect_answers": [
+                "Philosophy",
+                "Politics",
+                "Physics"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is a &quot;dakimakura&quot;?",
+            "correct_answer": "A body pillow",
+            "incorrect_answers": [
+                "A Chinese meal, essentially composed of fish",
+                "A yoga posture",
+                "A word used to describe two people who truly love each other"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who is a co-founder of music streaming service Spotify?",
+            "correct_answer": "Daniel Ek",
+            "incorrect_answers": [
+                "Sean Parker",
+                "Felix Miller",
+                "Michael Breidenbruecker"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the Swedish word for &quot;window&quot;?",
+            "correct_answer": "F&ouml;nster",
+            "incorrect_answers": [
+                "H&aring;l",
+                "Sk&auml;rm",
+                "Ruta"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the romanized Russian word for &quot;winter&quot;?",
+            "correct_answer": "Zima",
+            "incorrect_answers": [
+                "Leto",
+                "Vesna",
+                "Osen&#039;"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What country saw a world record 315 million voters turn out for elections on May 20, 1991?",
+            "correct_answer": "India",
+            "incorrect_answers": [
+                "United States of America",
+                "Soviet Union",
+                "Poland"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What was the original name of the search engine &quot;Google&quot;?",
+            "correct_answer": "BackRub",
+            "incorrect_answers": [
+                "CatMassage",
+                "SearchPro",
+                "Netscape Navigator"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which item of clothing is usually worn by a Scotsman at a wedding?",
+            "correct_answer": "Kilt",
+            "incorrect_answers": [
+                "Skirt",
+                "Dress",
+                "Rhobes"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What was the name given to Japanese military dictators who ruled the country through the 12th and 19th Century?",
+            "correct_answer": "Shogun",
+            "incorrect_answers": [
+                "Ninja",
+                "Samurai",
+                "Shinobi"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the highest number of Michelin stars a restaurant can receive?",
+            "correct_answer": "Three",
+            "incorrect_answers": [
+                "Four",
+                "Five",
+                "Six"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What type of dog is &#039;Handsome Dan&#039;, the mascot of Yale University?",
+            "correct_answer": "Bulldog",
+            "incorrect_answers": [
+                "Yorkshire Terrier",
+                "Boxer",
+                "Pug"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which of the following is not another name for the eggplant?",
+            "correct_answer": "Potimarron",
+            "incorrect_answers": [
+                "Brinjal",
+                "Guinea Squash",
+                "Melongene"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Sciophobia is the fear of what?",
+            "correct_answer": "Shadows",
+            "incorrect_answers": [
+                "Eating",
+                "Bright lights",
+                "Transportation"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "De Eemhof, Port Zelande and Het Heijderbos are holiday villas owned by what company?",
+            "correct_answer": "Center Parcs",
+            "incorrect_answers": [
+                "Yelloh Village",
+                "Keycamp",
+                "Villa Plus"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What year was the RoboSapien toy robot released?",
+            "correct_answer": "2004",
+            "incorrect_answers": [
+                "2000",
+                "2001",
+                "2006"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "According to Fair Works Australia, how long do you have to work to get Long Service Leave?",
+            "correct_answer": "7 years",
+            "incorrect_answers": [
+                "2 years",
+                "8 years",
+                "6 months"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What does the Latin phrase &quot;Veni, vidi, vici&quot; translate into English?",
+            "correct_answer": "I came, I saw, I conquered",
+            "incorrect_answers": [
+                "See no evil, hear no evil, speak no evil",
+                "Life, liberty, and happiness",
+                "Past, present, and future"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Virtual reality company Oculus VR lost which of it&#039;s co-founders in a freak car accident in 2013?",
+            "correct_answer": "Andrew Scott Reisse",
+            "incorrect_answers": [
+                "Nate Mitchell",
+                "Jack McCauley",
+                "Palmer Luckey"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "In flight systems, what does the initialism &quot;TCAS&quot; stand for?",
+            "correct_answer": "Traffic Collision Avoidance System",
+            "incorrect_answers": [
+                "Traffic Communication Alert System",
+                "Traffic Configuration Alignment System",
+                "Traffic Call-sign Abbreviation System"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "The word &quot;abulia&quot; means which of the following?",
+            "correct_answer": "The inability to make decisions",
+            "incorrect_answers": [
+                "The inability to stand up",
+                "The inability to concentrate on anything",
+                "A feverish desire to rip one&#039;s clothes off"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What country is the second largest in the world by area?",
+            "correct_answer": "Canada",
+            "incorrect_answers": [
+                "Russia",
+                "China",
+                "United States of America"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which Russian oblast forms a border with Poland?",
+            "correct_answer": "Kaliningrad",
+            "incorrect_answers": [
+                "Samara",
+                "Nizhny Novgorod",
+                "Omsk"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of the following languages does NOT use the Latin alphabet?",
+            "correct_answer": "Georgian",
+            "incorrect_answers": [
+                "Turkish",
+                "Swahili",
+                "Vietnamese"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "How many countries does the United States share a land border with?",
+            "correct_answer": "2",
+            "incorrect_answers": [
+                "1",
+                "3",
+                "4"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the Capital of the United States?",
+            "correct_answer": "Washington, D.C.",
+            "incorrect_answers": [
+                "Los Angelas, CA",
+                "New York City, NY",
+                "Houston, TX"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the nickname for the US state Delaware?",
+            "correct_answer": "The First State",
+            "incorrect_answers": [
+                "The Fiftieth State",
+                "The Second State",
+                "The Sixteenth State"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "How many countries does Mexico border?",
+            "correct_answer": "3",
+            "incorrect_answers": [
+                "2",
+                "4",
+                "1"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the name of New Zealand&#039;s indigenous people?",
+            "correct_answer": "Maori",
+            "incorrect_answers": [
+                "Vikings",
+                "Polynesians",
+                "Samoans"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "The Alps are a mountain range on which continent?",
+            "correct_answer": "Europe",
+            "incorrect_answers": [
+                "North America",
+                "Asia",
+                "Africa"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is Laos?",
+            "correct_answer": "Country",
+            "incorrect_answers": [
+                "Region",
+                "River",
+                "City"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "There are no roads in/out of Juneau, Alaska.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of the following language families is the most controversial amongst modern linguists?",
+            "correct_answer": "Altaic",
+            "incorrect_answers": [
+                "Sino-Tibetan",
+                "Dravidian",
+                "Indo-European"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "How many countries are larger than Australia?",
+            "correct_answer": "5",
+            "incorrect_answers": [
+                "4",
+                "3",
+                "6"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What event led to Liechenstein adding a crown to its flag?",
+            "correct_answer": "The 1936 Olympics",
+            "incorrect_answers": [
+                "Coronation of Prince Johann I Joseph in 1805",
+                "Charles VI&#039;s decree in 1719",
+                "Signing of the 1862 Constitution of Liechtenstein"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the capital of Senegal?",
+            "correct_answer": "Dakar",
+            "incorrect_answers": [
+                "Nouakchott",
+                "Conakry",
+                "Monrovia"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the 2016 Global Peace Index poll, out of 163 countries, what was the United States of America ranked?",
+            "correct_answer": "103",
+            "incorrect_answers": [
+                "10",
+                "59",
+                "79"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the capital city of Slovenia?",
+            "correct_answer": "Ljubljana",
+            "incorrect_answers": [
+                "Maribor",
+                "Velenje",
+                "Trbovlje"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Bridgetown is the capital of which island country in the Carribean?",
+            "correct_answer": "Barbados",
+            "incorrect_answers": [
+                "Cuba",
+                "Jamaica&lrm;",
+                "Dominica"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "The title of the 1969 film &quot;Krakatoa, East_of Java&quot; is incorrect, as Krakatoa is in fact west of Java.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the northernmost human settlement with year round inhabitants?",
+            "correct_answer": "Alert, Canada",
+            "incorrect_answers": [
+                "Nagurskoye, Russia",
+                "McMurdo Station, Antarctica ",
+                "Honningsv&aring;g, Norway"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which of these island countries is located in the Caribbean?",
+            "correct_answer": "Barbados",
+            "incorrect_answers": [
+                "Fiji",
+                "Maldives",
+                "Seychelles"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Fucking is a village in which country?",
+            "correct_answer": "Austria",
+            "incorrect_answers": [
+                "Germany",
+                "Switzerland",
+                "Czech Republic"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What North American tourist attraction is served by the &quot;Maid of the Mist&quot; tour company?",
+            "correct_answer": "Niagara Falls",
+            "incorrect_answers": [
+                "Whistler, British Columbia",
+                "Disney World",
+                "Yosemite National Park"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What is the name of rocky region that spans most of eastern Canada?",
+            "correct_answer": "Canadian Shield",
+            "incorrect_answers": [
+                "Rocky Mountains",
+                "Appalachian Mountains",
+                "Himalayas"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "When does Finland celebrate their independence day?",
+            "correct_answer": "December 6th",
+            "incorrect_answers": [
+                "January 2nd",
+                "November 12th",
+                "February 8th"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "The Andaman and Nicobar Islands in South East Asia are controlled by which country?",
+            "correct_answer": "India",
+            "incorrect_answers": [
+                "Vietnam",
+                "Thailand",
+                "Indonesia"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What is the capital of Mauritius?",
+            "correct_answer": "Port Louis",
+            "incorrect_answers": [
+                "Port Moresby",
+                "Port Vila",
+                "Port-au-Prince"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What national museum will you find in Cooperstown, New York?",
+            "correct_answer": "National Baseball Hall of Fame",
+            "incorrect_answers": [
+                "Metropolitan Museum of Art",
+                "National Toy Hall of Fame",
+                "Museum of Modern Art"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which of these cities is NOT in England?",
+            "correct_answer": "Edinburgh",
+            "incorrect_answers": [
+                "Oxford",
+                "Manchester",
+                "Southampton"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Bir Tawil, an uninhabited track of land claimed by no country, is located along the border of which two countries?",
+            "correct_answer": "Egypt and Sudan",
+            "incorrect_answers": [
+                "Israel and Jordan",
+                "Chad and Libya",
+                "Iraq and Saudi Arabia"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of the following sports is not part of the triathlon?",
+            "correct_answer": "Horse-Riding",
+            "incorrect_answers": [
+                "Cycling",
+                "Swimming",
+                "Running"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In baseball, how many fouls are an out?",
+            "correct_answer": "0",
+            "incorrect_answers": [
+                "5",
+                "3",
+                "2"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who won the 2016 Formula 1 World Driver&#039;s Championship?",
+            "correct_answer": "Nico Rosberg",
+            "incorrect_answers": [
+                "Lewis Hamilton",
+                "Max Verstappen",
+                "Kimi Raikkonen"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which city did the former NHL team &quot;The Nordiques&quot; originiate from?",
+            "correct_answer": "Quebec City",
+            "incorrect_answers": [
+                "Houston",
+                "Montreal",
+                "New York"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who won the premier league title in the 2015-2016 season following a fairy tale run?",
+            "correct_answer": "Leicester City",
+            "incorrect_answers": [
+                "Tottenham Hotspur",
+                "Watford",
+                "Stoke City"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who did Steven Gerrard win the Champions League with?",
+            "correct_answer": "Liverpool",
+            "incorrect_answers": [
+                "Real Madrid",
+                "Chelsea",
+                "Man City"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "&quot;Stadium of Light&quot; is the home stadium for which soccer team?",
+            "correct_answer": "Sunderland FC",
+            "incorrect_answers": [
+                "Barcelona FC",
+                "Paris Saints-Germain",
+                "Manchester United"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which country will host the 2022 FIFA World Cup?",
+            "correct_answer": "Qatar",
+            "incorrect_answers": [
+                "USA",
+                "Japan",
+                "Switzerland"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In the 2014 FIFA World Cup, what was the final score in the match Brazil - Germany?",
+            "correct_answer": "1-7",
+            "incorrect_answers": [
+                "1-5",
+                "1-6",
+                "2-6"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which two teams played in Super Bowl XLII?",
+            "correct_answer": "The New York Giants &amp; The New England Patriots",
+            "incorrect_answers": [
+                "The Green Bay Packers &amp; The Pittsburgh Steelers",
+                "The Philadelphia Eagles &amp; The New England Patriots",
+                "The Seattle Seahawks &amp; The Denver Broncos"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which nation hosted the FIFA World Cup in 2006?",
+            "correct_answer": "Germany",
+            "incorrect_answers": [
+                "United Kingdom",
+                "Brazil",
+                "South Africa"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which team was the 2015-2016 NBA Champions?",
+            "correct_answer": "Cleveland Cavaliers",
+            "incorrect_answers": [
+                "Golden State Warriors",
+                "Toronto Raptors",
+                "Oklahoma City Thunders"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which car manufacturer won the 2016 24 Hours of Le Mans?",
+            "correct_answer": "Porsche",
+            "incorrect_answers": [
+                "Toyota",
+                "Audi",
+                "Ferrari"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which portuguese island is soccer player Cristiano Ronaldo from?",
+            "correct_answer": "Madeira",
+            "incorrect_answers": [
+                "Terceira",
+                "Santa Maria",
+                "Porto Santo"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who won the 2015 College Football Playoff (CFP) National Championship? ",
+            "correct_answer": "Ohio State Buckeyes",
+            "incorrect_answers": [
+                "Alabama Crimson Tide",
+                "Clemson Tigers",
+                "Wisconsin Badgers"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which car manufacturer won the 2017 24 Hours of Le Mans?",
+            "correct_answer": "Porsche",
+            "incorrect_answers": [
+                "Toyota",
+                "Audi",
+                "Chevrolet"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of the following player scored a hat-trick during their Manchester United debut?",
+            "correct_answer": "Wayne Rooney",
+            "incorrect_answers": [
+                "Cristiano Ronaldo",
+                "Robin Van Persie",
+                "David Beckham"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who was the topscorer for England national football team?",
+            "correct_answer": "Wayne Rooney",
+            "incorrect_answers": [
+                "David Beckham",
+                "Steven Gerrard",
+                "Michael Owen"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the name of the AHL affiliate of the Toronto Maple Leafs?",
+            "correct_answer": "Toronto Marlies",
+            "incorrect_answers": [
+                "Toronto Rock",
+                "Toronto Argonauts",
+                "Toronto Wolfpack"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who was the top scorer of the 2014 FIFA World Cup?",
+            "correct_answer": "James Rodr&iacute;guez",
+            "incorrect_answers": [
+                "Thomas M&uuml;ller",
+                "Lionel Messi",
+                "Neymar"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "With which doubles partner did John McEnroe have most success?",
+            "correct_answer": "Peter Fleming",
+            "incorrect_answers": [
+                "Mark Woodforde",
+                "Michael Stich",
+                "Mary Carillo"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which Italian footballer told Neuer where he&#039;s putting his shot and dragging it wide, during the match Italy-Germany, UEFA EURO 2016?",
+            "correct_answer": "Pelle",
+            "incorrect_answers": [
+                "Insigne",
+                "Barzagli",
+                "Giaccherini"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which year was the third Super Bowl held?",
+            "correct_answer": "1969",
+            "incorrect_answers": [
+                "1968",
+                "1971",
+                "1970"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What team did England beat in the semi-final stage to win in the 1966 World Cup final?",
+            "correct_answer": "Portugal",
+            "incorrect_answers": [
+                "West Germany",
+                "Soviet Union",
+                "Brazil"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which player &quot;kung-fu kicked&quot; a Crystal Palace fan in January 1995?",
+            "correct_answer": "Eric Cantona",
+            "incorrect_answers": [
+                "David Seamen",
+                "Ashley Cole",
+                "Mark Hughes"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Who is Manchester United&#039;s leading appearance maker?",
+            "correct_answer": "Ryan Giggs",
+            "incorrect_answers": [
+                "David Beckham",
+                "Wayne Rooney",
+                "Eric Cantona"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "The Mazda 787B won the 24 Hours of Le Mans in what year?",
+            "correct_answer": "1991",
+            "incorrect_answers": [
+                "1990",
+                "2000",
+                "1987"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What is &ldquo;The Sport of Kings&rdquo;?",
+            "correct_answer": "Horse Racing",
+            "incorrect_answers": [
+                "Chess",
+                "Jousting",
+                "Fencing"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which of these Russian cities did NOT contain a stadium that was used in the 2018 FIFA World Cup?",
+            "correct_answer": "Vladivostok",
+            "incorrect_answers": [
+                "Rostov-on-Don",
+                "Yekaterinburg",
+                "Kaliningrad"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which English football team is nicknamed &#039;The Tigers&#039;?",
+            "correct_answer": "Hull City",
+            "incorrect_answers": [
+                "Cardiff City",
+                "Bristol City",
+                "Manchester City"
+            ]
+        }
+    ]
+}
